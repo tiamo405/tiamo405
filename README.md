@@ -1,8 +1,8 @@
 # Hi, I'm Tran Phuong Nam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I'm working on [cxview.ai](https://cxview.ai/), focusing on web development using JavaScript and Python. Beside's programming, I enjoy watching movies, playing football, badminton and traveling.
+I am a passionate student of programming, always fascinated by technology and have a passion for writing. Currently, I'm working on [Hanel](https://hanel.com.vn/), focusing on web development using Python and C++. Beside's programming, I enjoy watching movies, playing football, badminton and traveling.
 
-![<phanhuyhiep>'s Stats](https://github-readme-stats.vercel.app/api?username=tiamo405&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<trannam>'s Stats](https://github-readme-stats.vercel.app/api?username=tiamo405&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250" /> 
 -->
@@ -11,9 +11,8 @@ I am a passionate student of programming, always fascinated by technology and ha
 
 - 🔭 I am improving my skills in both Front-End and Back-End development.
 - 📝 I always improve myself through every project I participate in.
-- FrontEnd: I have experience working with ReactJS (Hook, Redux Toolkit), TailwindCSS, Bootstrap, Axios, and other technologies.
-- BackEnd: I have experience working with Node.JS, TypeScript, FastAPI, Python, MongoDB, MySQL, and other technologies.
-- ✍️ I have about 1 year of experience working at an AI camera startup and have experience working with Linux, configuring Ubuntu servers.
+- BackEnd: I have experience working with FastAPI, Python, MongoDB, and other technologies.
+- ✍️ I have about 2 year of experience working at an AI camera startup and have experience working with Linux, configuring Ubuntu servers.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,git,github,gitlab,mongodb)](https://skillicons.dev)
@@ -26,6 +25,15 @@ I am a passionate student of programming, always fascinated by technology and ha
   - Building server-side applications with FastAPI, a powerful Python web framework.
   - Diving into MongoDB for efficient and scalable database management.
   - You can check out my projects at [Repositories](https://github.com/tiamo405?tab=repositories).
+<div class="col">
+        <p><img align="left"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=tiamo405&show_icons=true&locale=en&layout=compact"
+                alt="tiamo405" width="40%" height="10%" /></p>
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiamo405&"
+                alt="tiamo405" width="40%" height="30%"/>
+        </p>
+
+</div>
 <!--
  ## 🏆 Achievements
 
