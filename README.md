@@ -9,16 +9,17 @@ I am a passionate student of programming, always fascinated by technology and ha
 
 ## 🚀 About Me
 
-- 🔭 I am improving my skills in both Front-End and Back-End development.
+- 🔭 Skilled in both Back-End development and Artificial Intelligence.
+- 🧑‍💻 Back-End: Proficient in FastAPI, Python, and MongoDB, with a focus on building scalable and efficient systems.
+- 🤖 Artificial Intelligence: Experienced in developing and deploying AI models, particularly on edge devices, using PyTorch and related tools.
 - 📝 I always improve myself through every project I participate in.
-- BackEnd: I have experience working with FastAPI, Python, MongoDB, and other technologies.
 - ✍️ I have about 2 year of experience working at an AI camera startup and have experience working with Linux, configuring Ubuntu servers.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,git,github,gitlab,mongodb)](https://skillicons.dev)
 ## 🌱 Currently Exploring
 
-- 🚀 Learning AI Enginer
+- 🚀 Learning AI engineer
   - A passionate learner and developer specializing in Artificial Intelligence.
   - Skilled in computer vision and working with research papers.
   - Experienced in deploying AI models on edge devices, focusing on optimization and scalability.
