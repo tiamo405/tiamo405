@@ -33,19 +33,20 @@ I am a passionate student of programming, always fascinated by technology and ha
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiamo405&"
                 alt="tiamo405" width="40%" height="30%"/>
         </p>
-
 </div>
-<!--
- ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
--->
+#
+## 🏆 Achievements
+- 🏆 ICPC Competitions: Participated in university-level ICPC (International Collegiate Programming Contest), showcasing problem-solving and algorithmic skills.
+- 🥇 P-Startup 2022: Awarded the "Socially Meaningful Startup Idea" prize as part of PTIT.CNH team.
+Developed an AI-powered software solution to detect and prevent littering behavior, contributing to environmental awareness and community betterment.
 ## 📬 Get in Touch
 
-- Connect with me on [Email](mailto:nam05052002@gmail.com).
+Connect with me on 
+- [Email](mailto:nam05052002@gmail.com).
+- [facebook](https://fb.com/tiamo.405).
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
 
 
 
