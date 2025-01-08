@@ -18,12 +18,12 @@ I am a passionate student of programming, always fascinated by technology and ha
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,git,github,gitlab,mongodb)](https://skillicons.dev)
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with FastAPI, a powerful Python web framework.
-  - Diving into MongoDB for efficient and scalable database management.
+- 🚀 Learning AI Enginer
+  - A passionate learner and developer specializing in Artificial Intelligence.
+  - Skilled in computer vision and working with research papers.
+  - Experienced in deploying AI models on edge devices, focusing on optimization and scalability.
+  - Primarily using Python with the PyTorch framework to build and train AI models.
+  - Continuously exploring new techniques and technologies to push the boundaries of AI development.
   - You can check out my projects at [Repositories](https://github.com/tiamo405?tab=repositories).
 <div class="col">
         <p><img align="left"
